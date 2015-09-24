@@ -1,7 +1,7 @@
 {
-  "name": "PROJECTNAMEHERE",
+  "name": "radix-sort",
   "version": "0.0.1",
-  "description": "DESCRIPTIONHERE",
+  "description": "radix sort",
   "main": "build/index.js",
   "scripts": {
     "test": "mocha",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@GITBASEURLHERE.git"
+    "url": "ssh://git@git-url.git"
   },
   "keywords": [
     "node",
     "oakleon"
   ],
-  "author": "AUTHOREMAILHERE",
-  "license": "LICENSEHERE",
+  "author": "chrishiestand@gmail.com",
+  "license": "MIT",
   "bugs": {
-    "url": "https://GITBASEURLHERE/issues"
+    "url": "https://git-url/issues"
   },
-  "homepage": "https://GITBASEURLHERE#readme",
+  "homepage": "https://git-url#readme",
   "dependencies": {
       "babel-runtime": "^5.8.20"
   },
